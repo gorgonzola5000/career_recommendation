@@ -4,9 +4,8 @@ to-do:
 
 acquirement of data
 - create a list of jobs for scraping job offers of
-- create a linkedin account
+- create a linkedin account DONE
 - check the webscraper and use it with a vpn to prevent a ban from linkedin
-- create an email and linkedin account
 
 data cleaning and modeling
 - deleting duplicates
